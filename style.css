@@ -1,0 +1,263 @@
+html {
+	background: #ffe2e1 url(https://64.media.tumblr.com/90d5d9e2d5a4f6f5b1b4c1c0f2f44688/fb4ceb49d2d619d8-7a/s500x750/1651035fff5d590f630958df3a9265331ce9c666.gif);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+@media (orientation: landscape) {
+	body { 
+		position: absolute;
+		left: 25%;
+		right: 25%;
+		margin-bottom: 0 auto;
+		font-family: serif;
+		font-size: 17px;
+		line-height: 20px;
+		color: black;
+		border: 10px solid black;
+		background-color: lightsteelblue;
+
+	}
+}	
+h1 {
+	width: ;
+  margin: 30px auto 10px;
+  font-family: serif;
+  text-align: center;
+  font-weight: normal;
+  font-size: 56px;
+  line-height: 64px;
+  background: rgba(255,255,255, 0.5);
+}
+
+.beginning-screen {
+  	width: ;
+  margin: 0 auto;
+  padding: 0 autox;
+}
+
+.site-header {
+  
+  height: 186px;
+  margin-bottom: 10px;
+  padding: 30px;
+  background-image: url(https://images.photowall.com/products/67151/sakura-bloom.jpg?h=699&q=85);
+  background-size: cover;
+}	
+
+.site-header p {
+	color: black;
+  	text-align: center;
+  	font-size: 20px;
+  	line-height: 28px;
+  	background: rgba(255,255,255, 0.6);
+}
+
+.menu {
+	position: fixed;
+	top: 10px;
+	right: 10px;
+}
+
+.menu-list {
+	border: 1px solid white;
+	background-color: rgba(255,255,255, 0.4);
+}	
+
+.menu-list dl {
+	padding: 0 auto;
+	margin: 0 auto;
+}
+
+.menu-list a {
+	color: purple;
+	text-decoration: none;
+}
+
+.opros {
+	 min-width: ;
+	 min-height: 30px;
+	 padding: 0 auto;
+	 margin: 0 auto;
+	 background-color: lightpink;
+	 border: 2px solid darkred;
+	 font-size: 17px;
+	 font-family: serif;
+	 text-align: center;
+}
+
+.text-opros {
+	padding: 15px;
+	margin: 0;
+	color: black;
+}
+
+.text-opros placeholder {
+	color: gray;
+}
+
+.article-block-1 h3 {
+	text-align: center;
+}
+
+.article-block-1 {
+	margin: 0 10px;
+}
+
+.spiski {
+	background-image: url(https://geografya.ru/images/stories/geografya/oblaka.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.spiski-um  {
+	position: sticky;
+	padding-left: 50%;
+	font-size: 16px;
+	font-family: monospace;
+}
+
+ul li {
+	margin: 0;
+	padding: 4px 0px 0px 26px;
+	list-style: none;
+	background-image: url("https://imgpng.ru/d/cutlet_PNG3.png");
+	background-repeat: no-repeat;
+	background-position: absolute;
+	background-size: 24px;
+}
+
+ol li {
+	margin: 0;
+	padding: 0px 0px 0px 24px;
+	list-style: none;
+	background-image: url("https://art.ngfiles.com/images/2478000/2478561_slavetomyself_spinning-donut-gif.gif?f1650761565");
+	background-repeat: no-repeat;
+	background-position: absolute;
+	background-size: 24px;
+}
+
+caption {
+  position: sticky;
+  botom: 10px;
+  font-family: sans-serif;
+  font-style: italic;
+  font-size: 20px;
+  color: #666;
+  text-align: center;
+  text-shadow: 1px 1px 1px black;
+}
+
+table {
+	margin-top: 5%;
+	width: 100%;
+  height: 0 auto;
+  text-align: center;
+	border: 10px white ridge;
+}
+
+tbody tr {
+	background-color: rgb(175, 225, 240, 0.8);
+	
+}
+.t-foot {
+ 	background: purple;
+ }
+
+.wiki {
+	font-size: 25px;
+	font-style: italic;
+	font-family: serif;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.wiki a {
+	text-decoration: none;
+}
+
+.checkbox-form {
+	font-style: oblique;
+	display: flex;
+	justify-content: space-around;
+}
+
+.article-block-2 h3 {
+	text-align: center;
+}
+
+.article-block-2 {
+	margin: 0 10px;
+}
+
+.qa {
+		font: 18px serif;
+		display: flex;
+		align-items: center;
+		margin: 25px;
+		
+}
+
+				.question {
+				  width: 400px ;
+				  padding: 10px;
+				  text-align: center;
+				  color: #fff;
+				  background: #8ea7e9;
+				  border: 7px lightpink inset;
+				}
+
+			.answer {
+			  text-align: center;
+			  width: 400px ;
+			  padding: 20px;
+			  background: white;
+			  border:7px inset lightpink;
+			  animation: color-change 2s infinite;
+			}
+
+			.arrow {
+			  margin: 0 10px;
+			  flex-grow: 2;
+			  text-align: center;
+			}
+
+audio {
+	width: 100%;
+}
+video {
+	width: 100%;
+	
+}
+
+#Конец {
+	background: blanchedalmond 1px no-repeat url(https://i.gifer.com/origin/cf/cffb69dea8656d32c4760a7edb2a435e_w200.gif);
+	padding: 20px 0px 50px 150px;
+	text-align: center;
+	font-family: serif;
+	font-weight: 800;
+	background-position: left;
+}
+
+
+
+
+@keyframes color-change {
+					0% {
+						color: red;
+					}
+					25% {
+						color: orange;
+					}
+					50% {
+						color: yellow;
+					}
+					75% {
+						color: orange;
+					}
+					100% {
+						color: red;
+					}					
+				}					
+				
+				
+			
