@@ -220,6 +220,9 @@ tbody tr {
 			  flex-grow: 2;
 			  text-align: center;
 			}
+code {
+	width: 100%
+}
 
 audio {
 	width: 100%;
